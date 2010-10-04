@@ -1,7 +1,7 @@
 Package: hgu133abarcodevecs
 Title: hgu133a data for barcode
-Version: 0.0.3
-Author: Matthew N. McCall <mmccall@jhsph.edu>
+Version: 0.0.4
+Author: Matthew N. McCall <mmccall@jhsph.edu>, Rafael A. Irizarry <rafa@jhu.edu>
 Description: Data used by the barcode package for microarrays of type hgu133a.
 Maintainer: Matthew N. McCall <mmccall@jhsph.edu>
 Depends: R (>= 2.10.0)
