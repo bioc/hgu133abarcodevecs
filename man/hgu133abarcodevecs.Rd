@@ -1,6 +1,7 @@
 \name{hgu133abarcodevecs}
 \docType{data}
 \alias{hgu133abarcodevecs}
+\alias{bcparams}
 \title{hgu133a data for barcode}
 \description{Data used by the barcode package for microarrays of type hgu133a.}
 \usage{
